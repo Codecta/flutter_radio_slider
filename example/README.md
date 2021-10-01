@@ -1,6 +1,6 @@
-# flutter_radio_slider_example
+# example
 
-Demonstrates how to use the flutter_radio_slider plugin.
+A new Flutter project.
 
 ## Getting Started
 
